@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubApiProject</string>
+    <string name="user_searchbar">Mau Cari Siapa ?</string>
+    <string name="name">Name</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="follow">Hello blank fragment</string>
+    <string name="setting">setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share">share</string>
+    <string name="github_id">Id</string>
+    <string name="toggle_favorite">toggleFavorite</string>
+    <string name="favorite_list">favoriteList</string>
+    <string name="title_text">Github User</string>
+    <string name="description_text">Api</string>
+    <string name="avatar_image">Github Profile Image</string>
+    <string name="logo_image">Application Image</string>
+</resources>

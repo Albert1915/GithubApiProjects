@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubApiProject" parent="Theme.Material3.DayNight">
+
+
+    </style>
+    <style name="android_background">
+        <item name="android:background">@color/dark_background</item>
+    </style>
+
+    <style name="layout_background">
+        <item name="android:background">@color/dark_layout</item>
+    </style>
+
+    <style name="tabs_layout">
+        <item name="android:background">@color/dark_layout</item>
+    </style>
+
+    <style name="android_background_2">
+        <item name="android:background">@color/dark_substitute</item>
+    </style>
+
+    <style name="floating_button">
+        <item name="android:backgroundTint">@color/dark_background</item>
+    </style>
+
+    <style name="list_text">
+        <item name="android:textColor">@color/dark_text</item>
+    </style>
+
+    <style name="viewpager_background">
+        <item name="android:background">@color/dark_background</item>
+    </style>
+</resources>
